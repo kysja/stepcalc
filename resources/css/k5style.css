@@ -1,0 +1,133 @@
+body {
+    font-family: 'Inconsolata', monospace;
+    font-size: 16px;
+    line-height: 1.42857143;
+}
+
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #0876ab;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0876ab;
+}
+
+.k5_test_data {
+    margin:20px 0;   
+}
+
+.k5_test_data span {
+    cursor:pointer;
+    border-bottom:dotted 1px gray;
+}
+
+.k5_form {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    max-width:600px;
+}
+
+.k5_elem {
+    margin: 5px 0 10px 0;
+}
+
+.k5_elem2 {
+    border-radius: 5px;
+    padding: 0 5px 10px 5px;
+    margin-bottom: 30px;
+}
+
+.k5_label {
+    display: block;
+}
+
+.k5_inp_text {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.k5_inp_num {
+    width: 60px;
+    text-align: center;
+    padding: 8px 14px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.k5_textarea {
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+  
+.k5_submit {
+    text-transform: uppercase;
+    color: #0876ab;
+    border: 3px solid #0876ab;
+    background: #fff;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 10px 15px;
+}
+
+.k5_reset {
+    text-transform: uppercase;
+    color: #777;
+    border: 3px solid #999;
+    background: #fff;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 10px 15px;
+}
+
+.k5_platf_wdth {
+    width: 40px;
+    display: inline-block;
+    text-align: right;
+    margin-right: 15px;
+}
+
+.k5_addsub {
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+}
+
+
+
+
+.k5_results {
+    margin: 20px 0;
+}
+
+.k5_results table, .k5_results table td {
+    border-collapse: collapse;
+    border: 1px solid #999;
+}
+
+.k5_results table td {
+    padding: 10px 20px;
+}
