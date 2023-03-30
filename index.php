@@ -143,6 +143,7 @@ if ($_POST['k5_calculate'] ?? false) {
 
                 <p><b>Platforms:</b> <?= $results['platforms'][1] ?></p>
                 <p><b>Railings:</b> <?= $results['railings'][1] ?></p>
+                <p><b>Step Color:</b> <?= $results['color'][1] ?></p>
 
             <?php endif; ?>
 
