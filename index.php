@@ -15,7 +15,7 @@ if ($_POST['k5_calculate'] ?? false) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shore Step Calculator</title>
+    <title>Shore Steps Calculator</title>
     <link rel="stylesheet" href="./resources/css/bootstrap.css">
     <link rel="stylesheet" href="./resources/css/k5style.css">
 
@@ -28,7 +28,7 @@ if ($_POST['k5_calculate'] ?? false) {
     <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
         <a href="./" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
             <img src="./resources/images/logo.png" alt="" class="me-4">
-            <span class="fs-4 fw-bold">Shore Step Calculator</span>
+            <span class="fs-4 fw-bold">Shore Steps Calculator</span>
         </a>
     </header>
 
